@@ -70,7 +70,6 @@ hr {
     display: None !important;
 }
 .navbar-nav {
-	background-color: #212529;
 }
 .navbar-toggler {
     border-color: #ECF0F1;
@@ -185,7 +184,7 @@ hr {
 #search-form.collapsed{
     background-color: #212529;
     margin-top: 0 !important;
-    margin-bottom: 0 !important;
+    margin-bottom: 15px !important;
     padding-top: .5rem !important;
     padding-bottom: .5rem !important;
 }
